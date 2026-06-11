@@ -1,0 +1,9 @@
+Pillow>=10.0.0
+exifread>=3.0.0
+pymupdf>=1.23.0
+python-docx>=1.0.0
+openpyxl>=3.1.0
+mutagen>=1.47.0
+python-magic>=0.4.27
+rich>=13.0.0
+fpdf2>=2.7.0
